@@ -614,7 +614,7 @@
                                             
     }
     .numeric-column-footer-component:hover.can-edit span {
-        color: white !important;
+        color: #7b7b7b !important;
     }
 
 	.board-wrapper .board-description .expander {
