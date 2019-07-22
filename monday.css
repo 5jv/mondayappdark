@@ -945,3 +945,10 @@
     .home-navigation-item-component:hover {
         background-color: #191b1e !important;
     }
+
+
+/* 2019 */
+
+    .board-wrapper .board-description .expander:hover .expander-inner {
+	background-color: #e6e6e6 !important;
+    }
