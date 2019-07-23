@@ -1,6 +1,6 @@
 # mondayappdark
 <p>Dark theme for monday.com 2019<br>
-Update for Stylish Chrome Extension<br>
+Update theme for Stylish Chrome Extension<br>
 
 ## Installation & Documentation
 
