@@ -952,3 +952,7 @@
     .board-wrapper .board-description .expander:hover .expander-inner {
 	background-color: #e6e6e6 !important;
     }
+
+    .home-navigation-item-component .home-navigation-item-content:hover {
+        background-color: rgba(53, 123, 181, 0.6) !important;                                        
+    }
