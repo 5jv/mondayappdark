@@ -609,7 +609,7 @@
         background-color: var(--color-bg-lighter);
     }
     .numeric-column-footer-component.can-edit span {
-        color: black !important;
+        color: #009aff !important;
                                             
     }
     .numeric-column-footer-component:hover.can-edit span {
@@ -957,4 +957,7 @@
     }
     .surface-control-component {
     background-color: #151515 !important;                                        
+    }
+    .columns-footer-component .columns-footer-column {
+    background-color: #474a509c;
     }
